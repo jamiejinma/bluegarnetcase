@@ -1,0 +1,30 @@
+﻿,,,,,"Q1. Students may need to access academic resources in order to help improve their academic success. Academic resources include private tutoring, on-campus tutoring, study groups or office hours with a professor or Teaching Assistant (TA).During this past academic year, how many hours per week on average did you spend on academic resources? (Please round to the nearest hour)","Q2. How much are ABC values being reflected in your day-to-day decisions? Motivation - ABC possess internal enthusiasm to develop their minds and improve their skills, even when faced with obstacles. They give their best effort, follow through on obligations, and strive for goals. Integrity - ABC demonstrate an honest and truthful character. They seek to be trustworthy and genuine with others. Engagement - ABC participate enthusiastically in all aspects of the program and immerse themselves in the college experience. Community - ABC display a mindset that honors and upholds those around them. They build connections with fellow participants, support one another, and encourage each other to achieve their goals. Curiosity - ABC demonstrate a sincere desire to learn. They explore opportunities to grow with an open-mind and excitement.",,,,"Q3. Career exposure is offered through in-person and virtual career workshops, 1-on-1 career mentorship, small group career advising, and by accessing career resources at your college/university.","Q4. On a scale of 1 to 5, what level of confidence do you have in the development of your professional skills right now?","Q5. Please mark the probability of each of the following statements. Hypothetically without ABC financial support, last year I would have:",,,,,Q6. Please complete this sentence. ABC financial support has allowed me to
+Survey,ID,Major,Current GPA,Cohort,Q1. Academic Resources,Q2. Motivation,Q2. Integrity,Q2. Community,Q2. Curiosity,Q3. Career exposure,Q4. Confidence,Q5. Reduced my class load,Q5. Dropped out of college,Q5.Neglectedmyacademicwork,Q5. Skipped meals,Q5. Not taken care of my personal health,Q6. Financial support
+Baseline,16G0252,International Development,2.66,C2,2,4,5,4,4,3,3,4,4,2,2,2,Have all the resources I need to succeed without having to stress about the financial aspect.
+Baseline,16G0231,Mechanical Engineering,3.26,C2,2,4,5,3,4,3,4,5,5,5,2,4,"focus more on courses, organizations, participation and self-growth. "
+Baseline,15G0273,Animal Science,2.85,C1,2,3,5,5,5,1,3,3,4,3,1,1,limit my spending 
+Baseline,15G0268,Business Administration,2.51,C1,3,5,5,3,4,3,4,3,4,2,2,2,Be worry free about monetary problems 
+Baseline,16G0223,Psychology,2.6,C2,2,4,5,4,4,4,4,2,3,2,2,2,"live comfortably without having to worry about any sudden expenses, which in turn, allows me to focus more on my academics."
+Baseline,16G0249,Biomedical Engineering,3.09,C2,3,5,5,4,5,3,4,1,4,1,1,2,focus more on education than on trying to remove college debt. 
+Baseline,15G0267,"Business Administration, Marketing",2.88,C1,2,5,5,4,4,5,3,5,5,5,5,5,focus more on my academic work 
+Baseline,16G022,Human Biology,2.88,C2,3,5,5,4,4,4,3,2,5,5,3,2,Pay for college
+Baseline,16G0234,Biological Sciences,2.57,C2,3,3,4,5,5,3,3,4,4,4,4,4,not have any financial concerns when interested in being part of the community.
+Baseline,15G0276,Business Administration,3.21,C1,2,5,5,5,5,4,2,2,2,2,2,2,stay out of debt and continue my education. 
+Baseline,16G0239,Molecular Biology,3,C2,2,5,5,5,3,5,4,5,1,5,1,1,maintain a healthy psychological state while studying for my future.
+Baseline,15G0263,Sociology,2.98,C1,5,5,5,5,5,4,5,5,5,4,4,1,focus on my academics rather than how am I going to get by financially.
+Baseline,15G0275,Business Administration,2.92,C1,3,4,5,5,5,5,4,1,2,1,1,1,Be able to be in college without stressing or worrying my mom. 
+Baseline,15G0259,Animal Science,3.42,C1,3,4,3,4,4,3,3,2,4,2,3,2,fully focus on my academic and career goals.
+Baseline,16G0233,Business,1.97,C2,3,4,5,4,5,5,4,4,5,4,2,5,ABC financial support has allowed me to relieve of stress from having to pay school supplies such as textbooABC and parking pass. 
+Baseline,15G0266,Sociology,3.39,C1,2,5,5,5,4,3,5,3,5,2,1,3,"continue college without having to worry about paying for booABC, supplies, and ultimately all of my loans."
+Baseline,15G0264,Sociology,2.39,C1,3,4,4,5,5,4,2,2,2,2,1,1,Not worry too much
+Baseline,16G0262,Psychology,3.58,C2,2,5,4,4,4,5,3,4,5,4,1,2,"Feel comfortable being away with home. I know I have money for emergencies and to have food. I also can rely on Kayne for school supplies, like booABC!"
+Baseline,16G0240,Chemistry,2.46,C2,3,5,5,3,5,4,3,4,4,2,1,1,not worry too much about anything related to school materials.
+Baseline,15G0540,"Business Administration, Marketing",3,C1,2,3,5,5,4,2,2,5,5,5,5,5,focus more on my academic work 
+Post,15G0268,Business Administration,3,C1,2,5,5,5,5,3,4,3,3,3,2,3,be stress free
+Post,15G0273,Animal Science,3.03,C1,2,4,5,5,4,3,4,4,2,1,2,1,Not have to get a part time job during undergrad. 
+Post,15G0263,Sociology,3.35,C1,2,4,5,5,5,4,4,4,4,3,3,2,graduate college debt free so now I can build myself up professionally and financially. 
+Post,16G0262,Psychology,3.58,C2,3,5,4,5,4,3,4,2,5,5,2,2,focus on my career
+Post,15G0275,Business Administration -Magement,2.92,C1,2,5,5,5,5,5,5,1,1,4,5,2,Graduate college with a low amount of loans.
+Post,15G0267,Business Administration,2.88,C1,2,5,4,5,4,5,4,3,2,2,1,3,focus more on my studies and myself 
+Post,15G0266,Sociology,3.55,C1,2,5,5,5,5,5,5,2,5,4,3,2,focus on the more important things like my education and family.
+Post,15G0259,Animal Science,3.48,C1,2,5,4,5,4,3,4,3,3,2,3,3,"Go into graduate school without having to worry about loans, as majority of loans were paid off. "
